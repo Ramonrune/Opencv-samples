@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-StoringImages/src"/>
+	<classpathentry kind="src" path="02-ReadingImages/src"/>
+	<classpathentry kind="src" path="03-WritingImage/src"/>
+	<classpathentry kind="src" path="04-GUI/src"/>
+	<classpathentry kind="src" path="05-ReadingGrayScale/src"/>
+	<classpathentry kind="src" path="06-ReadingBGR/src"/>
+	<classpathentry kind="src" path="07-ConvertToGrayScale/src"/>
+	<classpathentry kind="src" path="08-ColoredToBinary/src"/>
+	<classpathentry kind="src" path="09-GreyscaleToBinary/src"/>
+	<classpathentry kind="src" path="10-DrawingCircle/src"/>
+	<classpathentry kind="src" path="11-DrawingLine/src"/>
+	<classpathentry kind="src" path="12-DrawingEllipse/src"/>
+	<classpathentry kind="src" path="12-DrawingRectangle/src"/>
+	<classpathentry kind="src" path="13-DrawingPolyline/src"/>
+	<classpathentry kind="src" path="14-DrawingConvexPolylines/src"/>
+	<classpathentry kind="src" path="15-DrawingArrowedLines/src"/>
+	<classpathentry kind="src" path="16-DrawingText/src"/>
+	<classpathentry kind="src" path="17-Blur/src"/>
+	<classpathentry kind="src" path="18-GaussianBlur/src"/>
+	<classpathentry kind="src" path="19-MedianBlur/src"/>
+	<classpathentry kind="src" path="SampleCamera/src"/>
+	<classpathentry kind="lib" path="SampleCamera/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="SampleCamera/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv"/>
+	<classpathentry kind="output" path="01-StoringImages/bin"/>
+</classpath>
